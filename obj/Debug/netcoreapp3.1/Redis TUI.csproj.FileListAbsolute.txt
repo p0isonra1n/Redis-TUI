@@ -1,0 +1,68 @@
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/Redis TUI.deps.json
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/Redis TUI.runtimeconfig.json
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/Redis TUI.runtimeconfig.dev.json
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/Redis TUI.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/Redis TUI.pdb
+/Users/isaac/Documents/Personal/Redis TUI/obj/Debug/netcoreapp3.1/Redis TUI.csprojAssemblyReference.cache
+/Users/isaac/Documents/Personal/Redis TUI/obj/Debug/netcoreapp3.1/Redis TUI.AssemblyInfoInputs.cache
+/Users/isaac/Documents/Personal/Redis TUI/obj/Debug/netcoreapp3.1/Redis TUI.AssemblyInfo.cs
+/Users/isaac/Documents/Personal/Redis TUI/obj/Debug/netcoreapp3.1/Redis TUI.csproj.CoreCompileInputs.cache
+/Users/isaac/Documents/Personal/Redis TUI/obj/Debug/netcoreapp3.1/Redis TUI.dll
+/Users/isaac/Documents/Personal/Redis TUI/obj/Debug/netcoreapp3.1/Redis TUI.pdb
+/Users/isaac/Documents/Personal/Redis TUI/obj/Debug/netcoreapp3.1/Redis TUI.genruntimeconfig.cache
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/NStack.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/Terminal.Gui.dll
+/Users/isaac/Documents/Personal/Redis TUI/obj/Debug/netcoreapp3.1/Redis TUI.csproj.CopyComplete
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/Pipelines.Sockets.Unofficial.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/StackExchange.Redis.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/System.IO.Pipelines.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/isaac/Documents/Personal/Redis TUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\Redis TUI.exe
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\Redis TUI.deps.json
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\Redis TUI.runtimeconfig.json
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\Redis TUI.runtimeconfig.dev.json
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\Redis TUI.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\Redis TUI.pdb
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\NStack.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\Terminal.Gui.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\isaac\Downloads\Redis TUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\isaac\Downloads\Redis TUI\obj\Debug\netcoreapp3.1\Redis TUI.csprojAssemblyReference.cache
+C:\Users\isaac\Downloads\Redis TUI\obj\Debug\netcoreapp3.1\Redis TUI.AssemblyInfoInputs.cache
+C:\Users\isaac\Downloads\Redis TUI\obj\Debug\netcoreapp3.1\Redis TUI.AssemblyInfo.cs
+C:\Users\isaac\Downloads\Redis TUI\obj\Debug\netcoreapp3.1\Redis TUI.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\Redis TUI\obj\Debug\netcoreapp3.1\Redis TUI.csproj.CopyComplete
+C:\Users\isaac\Downloads\Redis TUI\obj\Debug\netcoreapp3.1\Redis TUI.dll
+C:\Users\isaac\Downloads\Redis TUI\obj\Debug\netcoreapp3.1\Redis TUI.pdb
+C:\Users\isaac\Downloads\Redis TUI\obj\Debug\netcoreapp3.1\Redis TUI.genruntimeconfig.cache
